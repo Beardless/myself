@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as r,a}from"./app.54f2789c.js";const t="/myself/assets/profile_picture.83552d89.png",y=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"index.md"}'),n={name:"index.md"},s=a("",4),c=[s];function i(p,l,m,_,d,f){return r(),o("div",null,c)}const g=e(n,[["render",i]]);export{y as __pageData,g as default};
